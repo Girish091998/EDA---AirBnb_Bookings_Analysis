@@ -18,4 +18,3 @@ NumPy
 Matplotlib
 Seaborn
 
-https://drive.google.com/file/d/1rzll9G3YpXJyVetlEST5eO6ntB9_fFwK/view?usp=sharing
